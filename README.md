@@ -4,7 +4,7 @@ I'll likely add the snowflake python library for helping create IDS for the diff
 
 This new platform will have the following features...
 
-- Logins with a non-trackable capchas.
+- Logins with non-trackable capchas.
 - Zero Paywalls (You don't need to log in to view your favorite person)
 - No Ads / As long as the person hosting is ok with no ads...
 - Easy to acess api for developers and webscrapers who want to view thier favorite creators differently
