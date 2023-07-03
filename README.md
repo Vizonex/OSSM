@@ -14,6 +14,7 @@ This will prevent the wasting of resources (This will never be paywalled)...
 
 - Unlike Searx this tool will be easy to install as well as compiled as an executable file for those who don't want useless files.
 - There will always be native windows and linux and apple support...
+- passwords are hashed with bcrypt
 
 # WHY ?
 
