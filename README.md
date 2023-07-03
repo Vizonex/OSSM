@@ -21,8 +21,10 @@ This will prevent the wasting of resources (This will never be paywalled)...
 This project was prompted when Twitter was paywalled and Reddit as well. This is when I said that enough is enough so I wanted to
 claim the name for this repository and I will be programming this soon. All the giant corperations say that if you don't like something 
 make your own. So that's what I'll be doing... :) 
-Here are more of my reasons down below I'll add more links soon...
-- https://github.com/zedeus/nitter/issues/919
+Here are more of my reasons down below I'll add more links and reasons soon...
+
+- Nitter Died Recently https://github.com/zedeus/nitter/issues/919 
+
 
 # Recomendations
 When You moderate your own instance these things should be considered or taken into account
